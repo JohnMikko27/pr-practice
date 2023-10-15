@@ -1,2 +1,2 @@
 # pr-practice
-cosnole.log("This is a practice")
+This is a repo to practice pull requests
