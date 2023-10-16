@@ -1,1 +1,1 @@
-console.log("This is a practice")
+cosnole.log("This is a practice")
